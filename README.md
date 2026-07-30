@@ -1,81 +1,92 @@
-# ¡Hola! 👋 Soy Nataly Alvial San Martín
+<div align="center">
 
-## 💻 Analista Programadora | Full Stack Developer | Aprendiz de Ciberseguridad
+# 👋 Hi, I'm Nataly Alvial San Martín
 
-Analista Programadora, enfocada en desarrollo de software, creación de aplicaciones web y el aprendizaje continuo. Me interesa desarrollar soluciones tecnológicas que sean eficientes, seguras y fáciles de utilizar.
+### 💻 Full Stack Developer | Software Developer | Cybersecurity Learner
 
-Actualmente continúo fortaleciendo mis conocimientos en Desarrollo Full Stack, Cloud Computing y Ciberseguridad.
+🚀 Passionate about building modern web applications and continuously learning new technologies.
 
----
+📍 Chile 🇨🇱 • ☁️ Cloud Computing • 🔐 Cybersecurity
 
-## 🚀 Tecnologías
-
-### 💻 Lenguajes
-
-- HTML
-- JavaScript
-- Python
-- Kotlin
-
-### ⚛️ Frameworks
-
-- React
-- Spring Boot
-
-### 🗄️ Bases de Datos
-
-- SQL
-- MySQL
-- Oracle Database
-- Supabase
-
-### ☁️ Cloud & Dev Tools
-
-- Git
-- GitHub
-- Visual Studio Code
-- IntelliJ IDEA
-- Apache NetBeans
-- Android Studio
-- AWS
-- Postman
-
-### 🖥️ Sistemas Operativos
-
-- Windows Server
-- Kali Linux
-
-### 🏢 Sistemas Empresariales
-
-- SAP
-- Softland
-- Defontana
-- Payroll
-- GeoVictoria
-- SICAS
-
-### 📊 Herramientas
-
-- Excel Avanzado
-- Looker Studio
-- Trello
+</div>
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 👩‍💻 About Me
 
-- Ciberseguridad
-- Desarrollo Backend
-- Arquitectura de Software
-- Cloud Computing
+I'm a **Software Developer** and **Computer Programming Analyst** passionate about software development, web applications, databases, and continuous learning.
+
+I enjoy building efficient, scalable and user-friendly solutions while expanding my knowledge in **Full Stack Development**, **Cloud Computing**, and **Cybersecurity**.
 
 ---
 
-## 📫 Contacto
+## 🛠️ Tech Stack
 
-📍 Chile
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,kotlin,react,spring,mysql,git,github,vscode,idea,androidstudio,aws,postman" />
+</p>
 
-📧 nataly.alvial93@gmail.com
+### 💾 Databases
+SQL • Oracle • MySQL • Supabase
 
-💼 LinkedIn:
+### 🏢 Enterprise Systems
+SAP • Softland • Defontana • Payroll • SICAS • GeoVictoria
+
+### 💻 Operating Systems
+Windows Server • Kali Linux
+
+### 📊 Productivity Tools
+Excel (Advanced) • Looker Studio • Trello
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NatalyAlvial&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NatalyAlvial&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NatalyAlvial&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🔐 Cybersecurity
+- ☁️ Cloud Computing
+- 🏗️ Software Architecture
+- ⚙️ Backend Development
+
+---
+
+## 📜 Certifications
+
+- Cisco Networking Academy
+- Duoc UC
+- *(More certifications coming soon...)*
+
+---
+
+## 📫 Connect with Me
+
+📧 **Email:** nataly.alvial93@gmail.com
+
+💼 **LinkedIn:**  
 https://www.linkedin.com/in/nataly-alvial-san-mart%C3%ADn-8b863b2a8/
+
+📍 Chile 🇨🇱
+
+---
+
+<div align="center">
+
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories or ask me questions..*
+
+</div>
